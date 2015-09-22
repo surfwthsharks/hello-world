@@ -7,4 +7,4 @@ This is a computer talking and you must listen.  :)
 
 Change # 2
 
-<a href='http://www.google.com'>Google Website</a>
+<a href='http://www.google.com' target='_blank'>Google Website</a>
